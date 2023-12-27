@@ -1,0 +1,4 @@
+name Father name, mother name,birth, phone,email, username,password
+
+abid,0000099,a+,12-3-4,sjnhfb,01983678
+ new entry"
